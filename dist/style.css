@@ -1,0 +1,31 @@
+body{ 
+ 
+  background-color:#81DAF5;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+  
+
+
+
+html {
+    font-family:  Helevetica, sans-serif;
+    text-align: center;
+  }
+
+  body {
+    margin: 0 auto;
+  } 
+
+  h1, h2 {
+    font-weight: 300;
+    
+    font-style:italic;
+  }
+#icon {
+  
+  margin-top:50px;
+}button:hover{
+  cursor:pointer;
+}
